@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+min-height: 50px;
+}
+
+.titleBox {
+    padding: 50px 350px;
+    text-align: center;
+    background-color: rgb(194, 7, 63);
+
+}
+
+.titleBox h1 {
+    color: white;
+    font-size: 70px;
+}
+
+
+.leadBox {
+    padding: 50px 350px;
+}
+
+.leadBox p {
+    font-size: 36px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 46px;
+}
+
+.articleBox {
+    padding: 0px 350px;
+}
+
+.articleBox p {
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 35px;
+}
+
+.articleBox ul {
+    font-size: 20px;
+    line-height: 30px;
+    padding-left: 60px;
+    margin-bottom: 35px;
+
+}
+
+.articleBox h2 {
+    font-size: 40px;
+    line-height: 65px;
+}
+
+.articleBox h3 {
+    font-size: 30px;
+    line-height: 45px;
+
+}
+.authorBox {
+    padding: 30px 350px;
+    font-size: 20px;
+}
+
+footer {
+min-height: 50px;
+}
